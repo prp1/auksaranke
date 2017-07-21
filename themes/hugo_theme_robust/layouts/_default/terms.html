@@ -1,6 +1,23 @@
 {{ define "title" }}{{ .Title }} - {{ end }}
 
 {{ define "main" }}
+vvvvvvvvvvvvvvvnnnnnnnnnnnnnnnnnnnnn
+
+          {{ range (.Paginate .Data.Pages).Pages }}
+          <!-- <div class="mcol c6">{{ .Render "li" }}</div> -->
+          <li>
+            <a href="{{ .Permalink }}" class="au-category--image">
+              <img src="images/categories/{{.Params.thumbnail}}">
+            
+            </a>
+            <a href="{{ .Permalink }}" class="au-category--title">{{ .Title }}</a>
+          </li>        
+
+
+          
+          {{ end }}
+
+
 <div class="mrow">
   <div class="mcol c8">
 

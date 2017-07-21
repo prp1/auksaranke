@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "meta.html" . }}
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">  
+    <link href="/css/normalize.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
+    {{ block "meta" . }}{{ end }}
+  </head>
+
+  <body>
+    <!--     
+    {{ if ne (getenv "HUGO_ENV") "DEV" }}
+    {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+    -->
+
+    <div class="au-container">
+
+      <a href="{{ .Site.BaseURL }}" class="au-logo" title="{{ .Site.Title }}">
+        Logotipas
+      </a>
+
+      <ul class="au-nav">
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/paslaugos">Paslaugos</a>
+        </li>
+        <li>
+          <a href="/apie-mane">Apie mane</a>
+        </li>
+        <li class="au-nav-item--last">
+          <a href="/kontaktai">Kontaktai</a>
+        </li>
+      </ul> 
+
+
+
+      <main class="au-content">

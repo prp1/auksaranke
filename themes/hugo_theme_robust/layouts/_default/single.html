@@ -9,32 +9,12 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="mrow">
-  <div class="mcol c8">
 
-    {{ .Render "summary" }}
+<h1 class="title">{{ .Title }}</h1>
+<div>{{ .Content }}</div>
+ 
+<!--     
+{{ partial "sidebar.html" . }} 
+-->
 
-    <div class="adj">
-      <div class="mrow">
-        {{ with .PrevInSection }}
-        <div class="mcol c6">
-          <header>Previous Article</header>
-          {{ .Render "li_sm" }}
-        </div>
-        {{ end }}
-        {{ with .NextInSection }}
-        <div class="mcol c6">
-          <header>Next Article</header>
-          {{ .Render "li_sm" }}
-        </div>
-        {{ end }}
-      </div>
-    </div>
-
-    {{ template "_internal/disqus.html" . }}
-  </div>
-  <div class="mcol c4">
-    {{ partial "sidebar.html" . }}
-  </div>
-</div>
 {{ end }}

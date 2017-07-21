@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+
+
+
+
+<ul class="au-categories">
+  {{ range (.Paginate .Data.Pages).Pages }}
+  <li>
+    <a href="{{ .Permalink }}" class="au-category--image">
+      <img src="/images/categories/{{.Params.thumbnail}}">
+    
+    </a>
+    <a href="{{ .Permalink }}" class="au-category--title">{{ .Title }}</a>
+  </li>        
+  {{ end }}
+</ul>
+
+service/list.html
+
+{{ partial "footer.html" . }}
