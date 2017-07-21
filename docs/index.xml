@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auksarankė</title>
-    <link>http://localhost:1313/</link>
+    <link>https://prp1.github.io/auksaranke/</link>
     <description>Recent content on Auksarankė</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prp1.github.io/auksaranke/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alpinariumai</title>
-      <link>http://localhost:1313/service/alpinariumai/</link>
+      <link>https://prp1.github.io/auksaranke/service/alpinariumai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/alpinariumai/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/alpinariumai/</guid>
       <description>Apie alpinariumus</description>
     </item>
     
     <item>
       <title>Apie mane</title>
-      <link>http://localhost:1313/apie-mane/</link>
+      <link>https://prp1.github.io/auksaranke/apie-mane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/apie-mane/</guid>
+      <guid>https://prp1.github.io/auksaranke/apie-mane/</guid>
       <description>Tekstas apie mane</description>
     </item>
     
     <item>
       <title>Baldų atnaujinimas</title>
-      <link>http://localhost:1313/service/baldu-atnaujinimas/</link>
+      <link>https://prp1.github.io/auksaranke/service/baldu-atnaujinimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/baldu-atnaujinimas/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/baldu-atnaujinimas/</guid>
       <description>Baldų atnaujinimas text</description>
     </item>
     
     <item>
       <title>Dovanų pakavimas</title>
-      <link>http://localhost:1313/service/dovanu-pakavimas/</link>
+      <link>https://prp1.github.io/auksaranke/service/dovanu-pakavimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/dovanu-pakavimas/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/dovanu-pakavimas/</guid>
       <description>Dovanų pakavimas tekstasssss</description>
     </item>
     
     <item>
       <title>Interjero dizainas</title>
-      <link>http://localhost:1313/service/interjero-dizainas/</link>
+      <link>https://prp1.github.io/auksaranke/service/interjero-dizainas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/interjero-dizainas/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/interjero-dizainas/</guid>
       <description>Apie dizaina interjoro</description>
     </item>
     
     <item>
       <title>Kontaktai</title>
-      <link>http://localhost:1313/kontaktai/</link>
+      <link>https://prp1.github.io/auksaranke/kontaktai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/kontaktai/</guid>
+      <guid>https://prp1.github.io/auksaranke/kontaktai/</guid>
       <description>Nida Anupraitienė
 Tel.: 8 601 36057
 El. paštas: auksaranke@gmail.com</description>
@@ -68,28 +68,28 @@ El. paštas: auksaranke@gmail.com</description>
     
     <item>
       <title>Renginių vedimas</title>
-      <link>http://localhost:1313/service/renginiu-vedimas/</link>
+      <link>https://prp1.github.io/auksaranke/service/renginiu-vedimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/renginiu-vedimas/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/renginiu-vedimas/</guid>
       <description>Renginių vedimas tekstas</description>
     </item>
     
     <item>
       <title>Suvenyrai</title>
-      <link>http://localhost:1313/service/suvenyrai/</link>
+      <link>https://prp1.github.io/auksaranke/service/suvenyrai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/suvenyrai/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/suvenyrai/</guid>
       <description>Suvenyrai tekstasssss</description>
     </item>
     
     <item>
       <title>Švenčių puošimas</title>
-      <link>http://localhost:1313/service/svenciu-puosimas/</link>
+      <link>https://prp1.github.io/auksaranke/service/svenciu-puosimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/service/svenciu-puosimas/</guid>
+      <guid>https://prp1.github.io/auksaranke/service/svenciu-puosimas/</guid>
       <description>Švenčių puošimas tekstas</description>
     </item>
     

@@ -1,4 +1,5 @@
 baseURL = "https://prp1.github.io/auksaranke/"
+baseURL = "http://localhost:1313"
 
 ![my img](alpinariumas-1.jpg)
 
