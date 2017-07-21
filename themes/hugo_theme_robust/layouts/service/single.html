@@ -3,13 +3,15 @@
 {{.Content}}
 
 {{ if isset .Params "images" }}
-	<div id="lightgallery" class="au-gallery">
+	<ul id="lightgallery" class="au-items-list">
 		{{ range (split .Params.images ",") }}
-			<a href="{{ . }}.jpg" class="au-gallery--link">
-				<img src="{{ . }}t.jpg" class="au-gallery--img">
+		<li class="au-items-list--item">
+			<a href="{{ . }}.jpg" class="au-items-list--item-link">
+				<img src="{{ . }}t.jpg">
 			</a>
+		</li>
 		{{end}}
-	</div>
+	</ul>
 {{ end }}
 
 {{ if eq (getenv "HUGO_ENV") "DEV" }}

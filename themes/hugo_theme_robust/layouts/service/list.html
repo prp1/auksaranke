@@ -1,17 +1,12 @@
 {{ partial "header.html" . }}
 
-
-
-
-
-<ul class="au-categories">
+<ul class="au-items-list">
   {{ range (.Paginate .Data.Pages).Pages }}
-  <li>
-    <a href="{{ .Permalink }}" class="au-category--image">
+  <li class="au-items-list--item">
+    <a href="{{ .Permalink }}" class="au-items-list--item-link">
       <img src="/images/categories/{{.Params.thumbnail}}">
-    
     </a>
-    <a href="{{ .Permalink }}" class="au-category--title">{{ .Title }}</a>
+    <a href="{{ .Permalink }}" class="au-items-list--item-title">{{ .Title }}</a>
   </li>        
   {{ end }}
 </ul>
