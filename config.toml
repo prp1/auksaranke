@@ -1,7 +1,7 @@
-baseURL = "http://example.com/"
+baseURL = "https://prp1.github.io/auksaranke/"
 languageCode = "en-us"
-title = "Minimal"
-theme = "minimal"
+title = "Auksarankė"
+theme = "hugo_theme_robust"
 
 [params]
     author = "Calin Tataru"

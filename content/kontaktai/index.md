@@ -1,7 +1,6 @@
 ---
 title: "Kontaktai"
 menu: "main"
-draft: true
 ---
 
 Nida Anupraitienė
