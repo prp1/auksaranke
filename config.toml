@@ -2,6 +2,7 @@ baseURL = "https://prp1.github.io/auksaranke/"
 languageCode = "en-us"
 title = "Auksarankė"
 theme = "hugo_theme_robust"
+publishDir = "docs"
 
 [params]
     author = "Calin Tataru"
