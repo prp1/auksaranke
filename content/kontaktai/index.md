@@ -3,4 +3,5 @@ title: "Kontaktai"
 draft: true
 ---
 
-Tekstas apie kontaktus
+Tel.: 8 601 36057  
+El. paštas: auksaranke@gmail.com

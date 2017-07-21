@@ -15,6 +15,16 @@ ul {
   padding: 0;
 }
 
+p {
+  line-height: 150%;
+}
+
+h1 {
+  font-size: 34px;
+  font-weight: normal;
+  margin: 0 0 20px 0 ;
+}
+
 .au-container {
   width: 1000px;
   margin: 0 auto;
@@ -106,3 +116,16 @@ Categories
 
   
 }*/
+
+/**
+Gallery
+**/
+
+.au-gallery {
+  text-align: center;
+}
+
+.au-gallery--link {
+  display: inline-block;
+  margin: 0 20px 20px 20px;
+}

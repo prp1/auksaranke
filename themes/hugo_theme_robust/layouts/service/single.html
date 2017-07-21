@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+{{.Content}}
+
+{{ if isset .Params "images" }}
+	<div id="lightgallery" class="au-gallery">
+		{{ range (split .Params.images ",") }}
+			<a href="{{ . }}.jpg" class="au-gallery--link">
+				<img src="{{ . }}t.jpg" class="au-gallery--img">
+			</a>
+		{{end}}
+	</div>
+{{ end }}
+
+{{ if eq (getenv "HUGO_ENV") "DEV" }}
+	template: service/single.html
+{{ end }}
+
+
+
+{{ partial "footer.html" . }}
