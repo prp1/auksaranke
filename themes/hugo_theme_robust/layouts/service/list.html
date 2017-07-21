@@ -4,7 +4,7 @@
   {{ range (.Paginate .Data.Pages).Pages }}
   <li class="au-items-list--item">
     <a href="{{ .Permalink }}" class="au-items-list--item-link">
-      <img src="images/categories/{{.Params.thumbnail}}">
+      <img src="{{ .Site.BaseURL }}/images/categories/{{.Params.thumbnail}}">
     </a>
     <a href="{{ .Permalink }}" class="au-items-list--item-title">{{ .Title }}</a>
   </li>        
