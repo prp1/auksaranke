@@ -5,8 +5,6 @@ Common
 **/
 
 body {
-    /*text-align: center;*/
-    /*background: #000;*/
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -28,12 +26,12 @@ h1 {
 .au-container {
   max-width: 1000px;
   margin: 0 auto;
-  background: #eee;
+  /*background: #eee;*/
 }
 
 .au-content {
-  margin-top: 20px;
-  padding: 0 20px;
+  padding: 20px;
+  clear: both;
 }
 
 /**
@@ -53,14 +51,13 @@ Logo
 Navigation
 **/
 
-.au-nav {
-  background: #578823;
-}
-
 .au-nav li {
-  display: inline-block;
-  width: 32%;
+  float: left;
+  width: 33.3%;
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
   border-right: 1px solid #476e1d;
 }
 
@@ -74,7 +71,7 @@ Navigation
   }
 }
 
-.au-nav li.au-nav-item--last {
+.au-nav li:last-child {
   border-right: 0 none;
   border-bottom: 0 none;
 }
@@ -86,6 +83,11 @@ Navigation
   padding: 20px 0;
   width: 100%;
   text-decoration: none;
+  background: #578823;
+}
+
+.au-nav li.au-nav--active a {
+  background: #476e1d;
 }
 
 @media (max-width: 299px) {

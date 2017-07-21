@@ -32,18 +32,24 @@
       </a>
 
       <ul class="au-nav">
-        <li>
-          <a href="/service">Paslaugos</a>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          <li {{if $currentPage.IsMenuCurrent "main" . }} class="au-nav--active"{{end}}>
+            <a href="{{.URL}}">{{ .Name }}</a>
         </li>
-        <li>
-          <a href="/apie-mane">Apie mane</a>
-        </li>
-        <li class="au-nav-item--last">
-          <a href="/kontaktai">Kontaktai</a>
-        </li>
+        {{end}}
       </ul> 
 
-
+<!--       <table class="au-nav">
+        <tr>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          <td {{if $currentPage.IsMenuCurrent "main" . }} class="au-nav--active"{{end}}>
+            <a href="{{.URL}}">{{ .Name }}</a>
+          </td>
+        {{end}}
+        </tr>
+      </table>  -->      
 
       <main class="au-content">
 

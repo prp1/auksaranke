@@ -1,5 +1,6 @@
 ---
 title: "Apie mane"
+menu: "main"
 draft: true
 ---
 
