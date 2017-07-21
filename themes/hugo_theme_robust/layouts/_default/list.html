@@ -1,0 +1,66 @@
+{{ define "title" }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ end }}
+
+{{ define "main" }}
+<div class="mrow">
+  <div class="mcol c8">
+
+<!--     {{ if not .IsHome }}
+    <header class="page-title">
+      <h1 class="title">{{ .Title }}</h1>
+    </header>
+    {{ end }} -->
+
+
+        <ul class="au-categories">
+          {{ range (.Paginate .Data.Pages).Pages }}
+          <!-- <div class="mcol c6">{{ .Render "li" }}</div> -->
+          <li>
+            <a href="{{ .Permalink }}" class="au-category--image">
+              <img src="images/categories/{{.Params.thumbnail}}">
+            
+            </a>
+            <a href="{{ .Permalink }}" class="au-category--title">{{ .Title }}</a>
+          </li>        
+
+
+          
+          {{ end }}
+
+<!--           <li>
+            <a href="" class="au-category--image">
+              <img src="images/categories/interjeras.jpg">
+            </a>
+            <a href="" class="au-category--title">Interjero dizainas</a>
+          </li>       
+          <li>
+            <a href="" class="au-category--image">
+              <img src="images/categories/suvenyrai.jpg">
+            </a>
+            <a href="" class="au-category--title">Suvenyrai, dovanos</a>
+          </li>       
+          <li>
+            <a href="" class="au-category--image">
+              <img src="images/categories/dovanu_ipakavimas.jpg">
+            </a>
+            <a href="" class="au-category--title">Dovanų įpakavimas</a>
+          </li>    
+          <li>
+            <a href="" class="au-category--image">
+              <img src="images/categories/baldu_atnaujinimas.jpg">
+            </a>
+            <a href="" class="au-category--title">Baldų atnaujinimas</a>
+          </li>
+     
+          <li>
+            <a href="" class="au-category--image">
+              <img src="images/categories/blank.png">
+            </a>
+            <a href="" class="au-category--title">Renginių vedimas</a>
+          </li> -->
+        </ul>
+
+  </div>
+
+</div>
+{{ end }}
+
