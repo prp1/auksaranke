@@ -34,7 +34,7 @@
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/service/interjero-dizainas/</loc>
+    <loc>https://prp1.github.io/auksaranke/service/interjero-detales/</loc>
   </url>
   
   <url>
@@ -72,6 +72,10 @@
   <url>
     <loc>https://prp1.github.io/auksaranke/categories/services/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://prp1.github.io/auksaranke/service/sienu-dekoravimas/</loc>
   </url>
   
   <url>

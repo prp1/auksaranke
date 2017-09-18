@@ -1,5 +1,5 @@
-
 baseURL = "https://prp1.github.io/auksaranke/"
+# baseURL = "http://localhost:1313"
 languageCode = "en-us"
 title = "Auksarankė"
 theme = "hugo_theme_robust"
