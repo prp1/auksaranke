@@ -1,6 +1,6 @@
 ---
 title: "Apie mane"
-menu: "main2"
+menu: "main"
 ---
 
 Tekstas apie mane
