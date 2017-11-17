@@ -1,7 +1,7 @@
-baseURL = "https://prp1.github.io/auksaranke/"
-#baseURL = "http://localhost:1313"
+#baseURL = "https://prp1.github.io/auksaranke/"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
-title = "Auksarankė"
+title = "Strakaliukė"
 theme = "hugo_theme_robust"
 publishDir = "docs"
 
