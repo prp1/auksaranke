@@ -30,9 +30,17 @@
 
     <div class="au-container">
 
-      <a href="{{ .Site.BaseURL }}" class="au-logo" title="{{ .Site.Title }}">
-        <img src="{{ .Site.BaseURL }}/images/logo2.png" alt="Strakaliukė">
-      </a>
+        <div class="au-header">
+            <a href="{{ .Site.BaseURL }}" class="au-logo" title="{{ .Site.Title }}">
+              <img src="{{ .Site.BaseURL }}/images/logo2.png" alt="Strakaliukė">
+            </a>
+            <div class="au-contacts">
+                <div class="au-contacts--email">strakaliukesdarbai@gmail.com</div>
+                <div class="au-contacts--tel">8 601 36507</div>
+                <div class="au-contacts--fb">facebook</div>
+            </div>
+        </div>
+
 
       <ul class="au-nav">
         {{ $currentPage := . }}
