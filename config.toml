@@ -1,5 +1,5 @@
 baseURL = "https://prp1.github.io/auksaranke/"
-# baseURL = "http://localhost:1313"
+#baseURL = "http://localhost:1313"
 languageCode = "en-us"
 title = "Auksarankė"
 theme = "hugo_theme_robust"
@@ -11,8 +11,7 @@ publishDir = "docs"
     githubUsername = "#"
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
-    paslauga = "paslaugos"
+    #tag = "tags"
+    #category = "categories"  # this could be used to display categories of services
+    #series = "series"
     service = "services"
