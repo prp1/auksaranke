@@ -31,25 +31,31 @@
     <div class="au-container">
 
         <div class="au-header">
-            <a href="{{ .Site.BaseURL }}" class="au-logo" title="{{ .Site.Title }}">
-              <img src="{{ .Site.BaseURL }}/images/logo2.png" alt="Strakaliukė">
-            </a>
             <div class="au-contacts">
                 <div class="au-contacts--email">strakaliukesdarbai@gmail.com</div>
                 <div class="au-contacts--tel">8 601 36507</div>
-                <div class="au-contacts--fb">facebook</div>
+                <div class="au-contacts--fb">
+                    <a href="https://www.facebook.com/strakaliuke/" target="_blank">Facebook</a>
+
+                </div>
             </div>
+
+            <a href="{{ .Site.BaseURL }}" class="au-logo" title="{{ .Site.Title }}">
+              <img src="{{ .Site.BaseURL }}/images/logo8.png" alt="Strakaliukė">
+            </a>
+
+            <ul class="au-nav">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                  <li {{if $currentPage.IsMenuCurrent "main" . }} class="au-nav--active"{{end}}>
+                    <a href="{{.URL}}">{{ .Name }}</a>
+                </li>
+                {{end}}
+              </ul>
         </div>
 
 
-      <ul class="au-nav">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <li {{if $currentPage.IsMenuCurrent "main" . }} class="au-nav--active"{{end}}>
-            <a href="{{.URL}}">{{ .Name }}</a>
-        </li>
-        {{end}}
-      </ul> 
+
 
 <!--       <table class="au-nav">
         <tr>
