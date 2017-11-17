@@ -6,6 +6,12 @@ Common
 
 body {
   font-family: 'Open Sans', sans-serif;
+  background: #000;
+  color: #fff !important;
+}
+
+a {
+    color: #fff !important;
 }
 
 ul {
@@ -101,6 +107,16 @@ Navigation
   background: #578823;
 }
 
+.au-nav li:first-child a {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.au-nav li:last-child a {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
 .au-nav li.au-nav--active a {
   background: #476e1d;
 }
@@ -135,6 +151,13 @@ Categories
   display: block;
 }
 
+.au-items-list--item-link img {
+    -webkit-box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+    -moz-box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.2);
+    /* border: 5px solid #fff; */
+}
+
 .au-items-list--item-title {
   display: block;
   color: #333;
@@ -144,6 +167,8 @@ Categories
 .au-items-list--item-title:hover {
   text-decoration: underline;
 }
+
+
 
 /*@media (max-width: 600px) {
 
