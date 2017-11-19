@@ -4,4 +4,4 @@ categories: ["services"]
 thumbnail: "blank.png"
 ---
 
-Renginių vedimas tekstas
+<p>Informacija ruošiama...</p>

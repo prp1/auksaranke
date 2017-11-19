@@ -1,8 +1,10 @@
 ---
 title: "Švenčių puošimas"
 categories: ["services"]
-thumbnail: "svenciu-puosimas-1t.jpg"
-images: "svenciu-puosimas-1"
+thumbnail: "blank.png"
+#thumbnail: "svenciu-puosimas-1t.jpg"
+#images: "svenciu-puosimas-1"
+images:
 ---
 
-Švenčių puošimas tekstas
+<p>Informacija ruošiama...</p>
