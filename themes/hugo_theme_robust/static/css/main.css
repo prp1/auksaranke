@@ -1,7 +1,15 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #1e1e1d;
+}
+
+body,
+a {
+    color: #1e1e1d;
+}
+
+a {
+    text-decoration: none;
 }
 
 ul {
@@ -98,11 +106,6 @@ h1 {
   }
 }
 
-.au-ornament {
-    height: 34px;
-    background: url("/images/ornament3.png") 0 0 repeat-x;
-}
-
 .au-footer {
     margin-top: 50px;
     margin-bottom: 20px;
@@ -126,7 +129,7 @@ h1 {
 }
 
 .au-contacts > div {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .au-fb {
@@ -142,6 +145,25 @@ h1 {
         float: none;
         width: auto;
     }
+}
+
+.au-icon-white {
+    background: url('/images/icon-white.png') 0 0 no-repeat;
+    width: 21px;
+    height: 21px;
+    position: relative;
+    display: inline-block;
+    top: 5px;
+    margin-right: 5px;
+}
+
+.au-back-to-list-link {
+    margin-top: 30px;
+
+}
+
+.au-back-to-list-link a:hover {
+    text-decoration: underline;
 }
 
 .au-items-list {

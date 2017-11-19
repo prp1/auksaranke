@@ -14,6 +14,10 @@
 	</ul>
 {{ end }}
 
+<div class="au-back-to-list-link">
+    <a href="{{ .Site.BaseURL }}service"><< Atgal į paslaugų sąrašą</a>
+</div>
+
 {{ if eq (getenv "HUGO_ENV") "DEV" }}
 	template: service/single.html
 {{ end }}
