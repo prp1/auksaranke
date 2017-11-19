@@ -5,6 +5,8 @@
         <!-- <meta http-equiv="refresh" content="0; url=http://localhost:1313/service" /> -->
     {{end}}
     {{ partial "meta.html" . }}
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{{ .Site.BaseURL }}/images/favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}/css/normalize.css" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}/vendors/lightgallery/css/lightgallery.css" rel="stylesheet">
@@ -19,6 +21,16 @@
     -->
     <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
     {{ block "meta" . }}{{ end }}
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/lt_LT/sdk.js#xfbml=1&version=v2.11&appId=1713309238693945';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
   </head>
 
   <body>
@@ -30,14 +42,9 @@
 
     <div class="au-container">
 
-        <div class="au-contacts">
-            <div class="au-contacts--email">strakaliukesdarbai@gmail.com</div>
-            <div class="au-contacts--tel">8 601 36507</div>
-            <div class="au-contacts--fb">facebook</div>
-        </div>
         <div class="au-header">
             <a href="{{ .Site.BaseURL }}" class="au-logo" title="{{ .Site.Title }}">
-              <img src="{{ .Site.BaseURL }}/images/logo8.png" alt="Strakaliukė">
+              <img src="{{ .Site.BaseURL }}/images/logo.png" alt="Strakaliukė">
             </a>
         </div>
 
@@ -49,7 +56,9 @@
             <a href="{{.URL}}">{{ .Name }}</a>
         </li>
         {{end}}
-      </ul> 
+      </ul>
+
+      <!-- <div class="au-ornament"></div> -->
 
 <!--       <table class="au-nav">
         <tr>
