@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/service/alpinariumai/</loc>
+    <loc>http://strakaliuke.lt/service/alpinariumai/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/apie-mane/</loc>
+    <loc>http://strakaliuke.lt/apie-mane/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/apie-mane/</loc>
+    <loc>http://strakaliuke.lt/apie-mane/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/baldu-atnaujinimas/</loc>
+    <loc>http://strakaliuke.lt/service/baldu-atnaujinimas/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/dovanu-pakavimas/</loc>
+    <loc>http://strakaliuke.lt/service/dovanu-pakavimas/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/interjero-detales/</loc>
+    <loc>http://strakaliuke.lt/service/interjero-detales/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/kontaktai/</loc>
+    <loc>http://strakaliuke.lt/kontaktai/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/kontaktai/</loc>
+    <loc>http://strakaliuke.lt/kontaktai/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/</loc>
+    <loc>http://strakaliuke.lt/service/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/renginiu-vedimas/</loc>
+    <loc>http://strakaliuke.lt/service/renginiu-vedimas/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>http://strakaliuke.lt/services/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/sienu-dekoravimas/</loc>
+    <loc>http://strakaliuke.lt/service/sienu-dekoravimas/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://strakaliuke.lt/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/suvenyrai/</loc>
+    <loc>http://strakaliuke.lt/service/suvenyrai/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/service/svenciu-puosimas/</loc>
+    <loc>http://strakaliuke.lt/service/svenciu-puosimas/</loc>
   </url>
   
 </urlset>

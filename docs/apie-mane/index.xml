@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apie-manes on Strakaliukė</title>
-    <link>http://localhost:1313/apie-mane/</link>
+    <link>http://strakaliuke.lt/apie-mane/</link>
     <description>Recent content in Apie-manes on Strakaliukė</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lt</language>
     
-	<atom:link href="http://localhost:1313/apie-mane/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://strakaliuke.lt/apie-mane/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apie mane</title>
-      <link>http://localhost:1313/apie-mane/</link>
+      <link>http://strakaliuke.lt/apie-mane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/apie-mane/</guid>
+      <guid>http://strakaliuke.lt/apie-mane/</guid>
       <description>Informacija ruošiama...</description>
     </item>
     

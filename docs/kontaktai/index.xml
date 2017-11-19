@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kontaktais on Strakaliukė</title>
-    <link>http://localhost:1313/kontaktai/</link>
+    <link>http://strakaliuke.lt/kontaktai/</link>
     <description>Recent content in Kontaktais on Strakaliukė</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lt</language>
     
-	<atom:link href="http://localhost:1313/kontaktai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://strakaliuke.lt/kontaktai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kontaktai</title>
-      <link>http://localhost:1313/kontaktai/</link>
+      <link>http://strakaliuke.lt/kontaktai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/kontaktai/</guid>
+      <guid>http://strakaliuke.lt/kontaktai/</guid>
       <description>Nida Anupraitienė
 Tel.: 8 601 36057
 El. paštas: strakaliukesdarbai@gmail.com</description>
