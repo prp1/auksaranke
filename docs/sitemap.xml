@@ -3,92 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/service/alpinariumai/</loc>
+    <loc>http://localhost:1313/service/alpinariumai/</loc>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/apie-mane/</loc>
+    <loc>http://localhost:1313/apie-mane/</loc>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/apie-mane/</loc>
+    <loc>http://localhost:1313/apie-mane/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/</loc>
+    <loc>http://localhost:1313/service/baldu-atnaujinimas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/service/dovanu-pakavimas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/service/interjero-detales/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kontaktai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kontaktai/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/service/baldu-atnaujinimas/</loc>
+    <loc>http://localhost:1313/service/</loc>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/categories/</loc>
+    <loc>http://localhost:1313/service/renginiu-vedimas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/services/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/service/dovanu-pakavimas/</loc>
+    <loc>http://localhost:1313/service/sienu-dekoravimas/</loc>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/service/interjero-detales/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/kontaktai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/kontaktai/</loc>
+    <loc>http://localhost:1313/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/paslaugos/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:1313/service/suvenyrai/</loc>
   </url>
   
   <url>
-    <loc>https://prp1.github.io/auksaranke/service/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/service/renginiu-vedimas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/services/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/categories/services/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/service/sienu-dekoravimas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/service/suvenyrai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://prp1.github.io/auksaranke/service/svenciu-puosimas/</loc>
+    <loc>http://localhost:1313/service/svenciu-puosimas/</loc>
   </url>
   
 </urlset>
