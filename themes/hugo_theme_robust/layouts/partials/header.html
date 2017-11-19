@@ -2,7 +2,7 @@
 <html>
   <head>
     {{ if .IsHome }}
-        <!-- <meta http-equiv="refresh" content="0; url=http://localhost:1313/service" /> -->
+        <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}service" />
     {{end}}
     {{ partial "meta.html" . }}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
