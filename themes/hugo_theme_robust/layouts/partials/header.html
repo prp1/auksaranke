@@ -39,15 +39,15 @@
             </a>
         </div>
 
-
-      <ul class="au-nav">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <li {{if $currentPage.IsMenuCurrent "main" . }} class="au-nav--active"{{end}}>
-            <a href="{{.URL}}">{{ .Name }}</a>
-        </li>
-        {{end}}
-      </ul>
+        <ul class="au-nav">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <!-- ugly way of making the service menu item active when in single service view: -->
+            <li {{if or ($currentPage.IsMenuCurrent "main" .) (and (eq .Weight 20) (eq $currentPage.Section "service")) }} class="au-nav--active"{{end}}>
+                <a href="{{.URL}}">{{ .Name }}</a>
+            </li>
+            {{end}}
+        </ul>
 
       <main class="au-content">
 
