@@ -2,7 +2,7 @@
 <html>
   <head>
     {{ if .IsHome }}
-        <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}service" />
+        <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}paslaugos" />
     {{end}}
     {{ partial "meta.html" . }}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -42,8 +42,8 @@
         <ul class="au-nav">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
-            <!-- ugly way of making the service menu item active when in single service view: -->
-            <li {{if or ($currentPage.IsMenuCurrent "main" .) (and (eq .Weight 20) (eq $currentPage.Section "service")) }} class="au-nav--active"{{end}}>
+            <!-- ugly way of making the paslaugos menu item active when in single paslaugos view: -->
+            <li {{if or ($currentPage.IsMenuCurrent "main" .) (and (eq .Weight 20) (eq $currentPage.Section "paslaugos")) }} class="au-nav--active"{{end}}>
                 <a href="{{.URL}}">{{ .Name }}</a>
             </li>
             {{end}}

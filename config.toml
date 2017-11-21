@@ -15,4 +15,4 @@ publishDir = "docs"
     #tag = "tags"
     #category = "categories"  # this could be used to display categories of services
     #series = "series"
-    service = "services"
+    paslaugos = "services"
