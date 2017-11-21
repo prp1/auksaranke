@@ -132,6 +132,10 @@ h1 {
     margin-bottom: 20px;
 }
 
+.au-contacts a {
+    color: #fff;
+}
+
 .au-fb {
     float: right;
     width: 300px;
