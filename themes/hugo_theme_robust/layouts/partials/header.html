@@ -5,13 +5,20 @@
         <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}paslaugos" />
     {{end}}
     {{ partial "meta.html" . }}
+    {{ block "meta" . }}{{ end }}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}/css/normalize.css" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}/vendors/lightgallery/css/lightgallery.css" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}/css/main.css" rel="stylesheet">
 
-    <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
-    {{ block "meta" . }}{{ end }}
+    <!-- <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title> -->
+    <title>
+    {{ if .IsHome }}
+        {{ .Site.Title }} - {{.Site.Params.description}}
+    {{else}}
+        {{.Title}} - {{ .Site.Title }}
+    {{end}}
+    </title>
 
     <div id="fb-root"></div>
     <script>(function(d, s, id) {

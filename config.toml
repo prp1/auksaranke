@@ -7,9 +7,7 @@ theme = "hugo_theme_robust"
 publishDir = "docs"
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo 2"
-    githubUsername = "#"
+    description = "Darbai namų jaukumui"
 
 [taxonomies]
     #tag = "tags"
