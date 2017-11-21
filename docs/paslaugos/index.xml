@@ -1,14 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paslaugos on Auksarankė</title>
-    <link>https://prp1.github.io/auksaranke/paslaugos/</link>
-    <description>Recent content in Paslaugos on Auksarankė</description>
+    <title>Paslaugos on Strakaliukė</title>
+    <link>http://strakaliuke.lt/paslaugos/</link>
+    <description>Recent content in Paslaugos on Strakaliukė</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>lt</language>
     
-	<atom:link href="https://prp1.github.io/auksaranke/paslaugos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://strakaliuke.lt/paslaugos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alpinariumai</title>
+      <link>http://strakaliuke.lt/paslaugos/alpinariumai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/alpinariumai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baldų atnaujinimas</title>
+      <link>http://strakaliuke.lt/paslaugos/baldu-atnaujinimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/baldu-atnaujinimas/</guid>
+      <description>Atnaujinu baldus naudojant dekupažo techniką.</description>
+    </item>
+    
+    <item>
+      <title>Dovanų pakavimas</title>
+      <link>http://strakaliuke.lt/paslaugos/dovanu-pakavimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/dovanu-pakavimas/</guid>
+      <description>Kartais net paprasta dovana gali nustebinti savo išskirtinumu. Tereikia ją originaliai įpakuoti!</description>
+    </item>
+    
+    <item>
+      <title>Interjero detalės</title>
+      <link>http://strakaliuke.lt/paslaugos/interjero-detales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/interjero-detales/</guid>
+      <description>Trūksta idėjų kaip suteikti interjerui originalumo, o gal norite žaismingi paslėpti tam tikrus interjero defektus?</description>
+    </item>
+    
+    <item>
+      <title>Renginių vedimas</title>
+      <link>http://strakaliuke.lt/paslaugos/renginiu-vedimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/renginiu-vedimas/</guid>
+      <description>Informacija ruošiama...</description>
+    </item>
+    
+    <item>
+      <title>Sienų dekoravimas</title>
+      <link>http://strakaliuke.lt/paslaugos/sienu-dekoravimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/sienu-dekoravimas/</guid>
+      <description>Teikiu sienų dekoravimo paslaugas panaudojant skystus tapetus. Kiekvienas sukurtas interjeras yra unikalus atsižvelgiant į patalpos ir baldų išdėstymą, jūsų pageidavimus. Konsultuoju pasirenkant tapetus ir jų spalvų derinius.</description>
+    </item>
+    
+    <item>
+      <title>Suvenyrai</title>
+      <link>http://strakaliuke.lt/paslaugos/suvenyrai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/suvenyrai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Švenčių puošimas</title>
+      <link>http://strakaliuke.lt/paslaugos/svenciu-puosimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/paslaugos/svenciu-puosimas/</guid>
+      <description>Informacija ruošiama...</description>
+    </item>
     
   </channel>
 </rss>

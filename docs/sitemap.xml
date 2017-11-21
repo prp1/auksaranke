@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://strakaliuke.lt/service/alpinariumai/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/alpinariumai/</loc>
   </url>
   
   <url>
@@ -16,15 +16,15 @@
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/baldu-atnaujinimas/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/baldu-atnaujinimas/</loc>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/dovanu-pakavimas/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/dovanu-pakavimas/</loc>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/interjero-detales/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/interjero-detales/</loc>
   </url>
   
   <url>
@@ -37,11 +37,11 @@
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/</loc>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/renginiu-vedimas/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/renginiu-vedimas/</loc>
   </url>
   
   <url>
@@ -50,7 +50,7 @@
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/sienu-dekoravimas/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/sienu-dekoravimas/</loc>
   </url>
   
   <url>
@@ -59,11 +59,11 @@
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/suvenyrai/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/suvenyrai/</loc>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/service/svenciu-puosimas/</loc>
+    <loc>http://strakaliuke.lt/paslaugos/svenciu-puosimas/</loc>
   </url>
   
 </urlset>
