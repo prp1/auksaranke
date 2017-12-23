@@ -2,7 +2,7 @@
 <html>
   <head>   
     {{ if .IsHome }}
-        <!--<meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}dovanos" />-->
+        <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}dovanos" />
     {{end}}
     {{ partial "meta.html" . }}
     {{ block "meta" . }}{{ end }}
