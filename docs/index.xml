@@ -11,48 +11,93 @@
     
     
     <item>
-      <title>Alpinariumai</title>
-      <link>http://strakaliuke.lt/paslaugos/alpinariumai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://strakaliuke.lt/paslaugos/alpinariumai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apie mane</title>
-      <link>http://strakaliuke.lt/apie-mane/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://strakaliuke.lt/apie-mane/</guid>
-      <description>Informacija ruošiama...</description>
-    </item>
-    
-    <item>
-      <title>Baldų atnaujinimas</title>
-      <link>http://strakaliuke.lt/paslaugos/baldu-atnaujinimas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://strakaliuke.lt/paslaugos/baldu-atnaujinimas/</guid>
-      <description>Atnaujinu baldus naudojant dekupažo techniką.</description>
-    </item>
-    
-    <item>
       <title>Dovanų pakavimas</title>
-      <link>http://strakaliuke.lt/paslaugos/dovanu-pakavimas/</link>
+      <link>http://strakaliuke.lt/dovanos/dovanu-pakavimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/paslaugos/dovanu-pakavimas/</guid>
+      <guid>http://strakaliuke.lt/dovanos/dovanu-pakavimas/</guid>
       <description>Kartais net paprasta dovana gali nustebinti savo išskirtinumu. Tereikia ją originaliai įpakuoti!</description>
     </item>
     
     <item>
-      <title>Interjero detalės</title>
-      <link>http://strakaliuke.lt/paslaugos/interjero-detales/</link>
+      <title>Sienų dekoravimas</title>
+      <link>http://strakaliuke.lt/namams/sienu-dekoravimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/paslaugos/interjero-detales/</guid>
+      <guid>http://strakaliuke.lt/namams/sienu-dekoravimas/</guid>
+      <description>Teikiu sienų dekoravimo paslaugas panaudojant skystus tapetus. Kiekvienas sukurtas interjeras yra unikalus atsižvelgiant į patalpos ir baldų išdėstymą, jūsų pageidavimus. Konsultuoju pasirenkant tapetus ir jų spalvų derinius.</description>
+    </item>
+    
+    <item>
+      <title>Baldų atnaujinimas</title>
+      <link>http://strakaliuke.lt/namams/baldu-atnaujinimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/baldu-atnaujinimas/</guid>
+      <description>Atnaujinu baldus naudojant dekupažo techniką.</description>
+    </item>
+    
+    <item>
+      <title>Dekoruoti buteliai</title>
+      <link>http://strakaliuke.lt/dovanos/dekoruoti-buteliai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/dovanos/dekoruoti-buteliai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dėžutės</title>
+      <link>http://strakaliuke.lt/dovanos/dezutes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/dovanos/dezutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interjero detalės</title>
+      <link>http://strakaliuke.lt/namams/interjero-detales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/interjero-detales/</guid>
       <description>Trūksta idėjų kaip suteikti interjerui originalumo, o gal norite žaismingi paslėpti tam tikrus interjero defektus?</description>
+    </item>
+    
+    <item>
+      <title>Akinių dėklai</title>
+      <link>http://strakaliuke.lt/dovanos/akiniu-deklai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/dovanos/akiniu-deklai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alpinariumai</title>
+      <link>http://strakaliuke.lt/namams/alpinariumai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/alpinariumai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knygų skirtukai</title>
+      <link>http://strakaliuke.lt/dovanos/knygu-skirtukai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/dovanos/knygu-skirtukai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalėdinės dovanos</title>
+      <link>http://strakaliuke.lt/dovanos/kaledines-dovanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/dovanos/kaledines-dovanos/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -73,24 +118,6 @@ El. paštas: strakaliukesdarbai@gmail.com</description>
       
       <guid>http://strakaliuke.lt/paslaugos/renginiu-vedimas/</guid>
       <description>Informacija ruošiama...</description>
-    </item>
-    
-    <item>
-      <title>Sienų dekoravimas</title>
-      <link>http://strakaliuke.lt/paslaugos/sienu-dekoravimas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://strakaliuke.lt/paslaugos/sienu-dekoravimas/</guid>
-      <description>Teikiu sienų dekoravimo paslaugas panaudojant skystus tapetus. Kiekvienas sukurtas interjeras yra unikalus atsižvelgiant į patalpos ir baldų išdėstymą, jūsų pageidavimus. Konsultuoju pasirenkant tapetus ir jų spalvų derinius.</description>
-    </item>
-    
-    <item>
-      <title>Suvenyrai</title>
-      <link>http://strakaliuke.lt/paslaugos/suvenyrai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://strakaliuke.lt/paslaugos/suvenyrai/</guid>
-      <description></description>
     </item>
     
     <item>

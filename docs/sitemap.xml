@@ -3,28 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://strakaliuke.lt/paslaugos/alpinariumai/</loc>
+    <loc>http://strakaliuke.lt/dovanos/dovanu-pakavimas/</loc>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/apie-mane/</loc>
+    <loc>http://strakaliuke.lt/namams/sienu-dekoravimas/</loc>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/apie-mane/</loc>
+    <loc>http://strakaliuke.lt/namams/baldu-atnaujinimas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/dovanos/dekoruoti-buteliai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/dovanos/dezutes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/namams/interjero-detales/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/dovanos/akiniu-deklai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/namams/alpinariumai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/dovanos/knygu-skirtukai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/dovanos/kaledines-dovanos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/dovanos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/gifts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/paslaugos/baldu-atnaujinimas/</loc>
-  </url>
-  
-  <url>
-    <loc>http://strakaliuke.lt/paslaugos/dovanu-pakavimas/</loc>
-  </url>
-  
-  <url>
-    <loc>http://strakaliuke.lt/paslaugos/interjero-detales/</loc>
+    <loc>http://strakaliuke.lt/home/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,6 +63,10 @@
   <url>
     <loc>http://strakaliuke.lt/kontaktai/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://strakaliuke.lt/namams/</loc>
   </url>
   
   <url>
@@ -45,21 +78,8 @@
   </url>
   
   <url>
-    <loc>http://strakaliuke.lt/services/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://strakaliuke.lt/paslaugos/sienu-dekoravimas/</loc>
-  </url>
-  
-  <url>
     <loc>http://strakaliuke.lt/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://strakaliuke.lt/paslaugos/suvenyrai/</loc>
   </url>
   
   <url>

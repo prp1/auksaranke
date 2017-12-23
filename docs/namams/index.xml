@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namų jaukumui on Strakaliukė</title>
+    <link>http://strakaliuke.lt/namams/</link>
+    <description>Recent content in Namų jaukumui on Strakaliukė</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>lt</language>
+    
+	<atom:link href="http://strakaliuke.lt/namams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sienų dekoravimas</title>
+      <link>http://strakaliuke.lt/namams/sienu-dekoravimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/sienu-dekoravimas/</guid>
+      <description>Teikiu sienų dekoravimo paslaugas panaudojant skystus tapetus. Kiekvienas sukurtas interjeras yra unikalus atsižvelgiant į patalpos ir baldų išdėstymą, jūsų pageidavimus. Konsultuoju pasirenkant tapetus ir jų spalvų derinius.</description>
+    </item>
+    
+    <item>
+      <title>Baldų atnaujinimas</title>
+      <link>http://strakaliuke.lt/namams/baldu-atnaujinimas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/baldu-atnaujinimas/</guid>
+      <description>Atnaujinu baldus naudojant dekupažo techniką.</description>
+    </item>
+    
+    <item>
+      <title>Interjero detalės</title>
+      <link>http://strakaliuke.lt/namams/interjero-detales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/interjero-detales/</guid>
+      <description>Trūksta idėjų kaip suteikti interjerui originalumo, o gal norite žaismingi paslėpti tam tikrus interjero defektus?</description>
+    </item>
+    
+    <item>
+      <title>Alpinariumai</title>
+      <link>http://strakaliuke.lt/namams/alpinariumai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://strakaliuke.lt/namams/alpinariumai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
