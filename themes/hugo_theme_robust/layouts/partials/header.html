@@ -2,7 +2,7 @@
 <html>
   <head>
     {{ if .IsHome }}
-        <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}paslaugos" />
+        <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}dovanos" />
     {{end}}
     {{ partial "meta.html" . }}
     {{ block "meta" . }}{{ end }}
@@ -42,7 +42,10 @@
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
             <!-- ugly way of making the paslaugos menu item active when in single paslaugos view: -->
-            <li {{if or ($currentPage.IsMenuCurrent "main" .) (and (eq .Weight 20) (eq $currentPage.Section "paslaugos")) }} class="au-nav--active"{{end}}>
+            <li 
+                {{if or ($currentPage.IsMenuCurrent "main" .) (and (eq .Weight 30) (eq $currentPage.Section "dovanos")) }} class="au-nav--active"{{end}}
+                {{if or ($currentPage.IsMenuCurrent "main" .) (and (eq .Weight 40) (eq $currentPage.Section "namams")) }} class="au-nav--active"{{end}}
+                >
                 <a href="{{.URL}}">{{ .Name }}</a>
             </li>
             {{end}}

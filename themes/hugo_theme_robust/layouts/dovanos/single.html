@@ -17,30 +17,10 @@
 <div class="au-back-to-list-link">
     <a href="{{ .Site.BaseURL }}paslaugos"><< Atgal į paslaugų sąrašą</a>
 </div>-->
-<!--
+
 {{ if eq (getenv "HUGO_ENV") "DEV" }}
 	template: paslaugos/single.html
-{{ end }}-->
+{{ end }}
 
 
 {{ partial "footer.html" . }}
-
-<!--{{ define "title" }}{{ .Title }} - {{ end }}
-
-{{ define "meta" }}
-{{ range .AlternativeOutputFormats }}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end }}
-{{ partial "single_meta.html" . }}
-{{ partial "single_json_ld.html" . }}
-{{ end }}
-
-{{ define "main" }}
-
-<div>{{ .Content }}</div>
- 
-  
-{{ partial "sidebar.html" . }} 
-
-
-{{ end }}-->

@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<ul class="au-items-list">
+  {{ range (.Paginate .Data.Pages).Pages.ByWeight }}
+  <li class="au-items-list--item">
+    <a href="{{ .Permalink }}" class="au-items-list--item-link">
+      <img src="{{ .Site.BaseURL }}/images/categories/{{.Params.thumbnail}}">
+    </a>
+    <a href="{{ .Permalink }}" class="au-items-list--item-title">{{ .Title }}</a>
+  </li>        
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}

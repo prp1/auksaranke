@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+{{.Content}}
+
+{{ if isset .Params "images" }}
+	<ul id="lightgallery" class="au-items-list">
+		{{ range (split .Params.images ",") }}
+		<li class="au-items-list--item">
+			<a href="{{ . }}.jpg" class="au-items-list--item-link">
+				<img src="{{ . }}t.jpg">
+			</a>
+		</li>
+		{{end}}
+	</ul>
+{{ end }}
+<!--
+<div class="au-back-to-list-link">
+    <a href="{{ .Site.BaseURL }}dovanos"><< Atgal į dovanų sąrašą</a>
+</div>-->
+
+{{ if eq (getenv "HUGO_ENV") "DEV" }}
+	template: paslaugos/single.html
+{{ end }}
+
+
+{{ partial "footer.html" . }}
