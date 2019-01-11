@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Strakaliukė</title>
-    <link>http://strakaliuke.lt/home/</link>
+    <link>https://prp1.github.io/auksaranke/home/</link>
     <description>Recent content in Home on Strakaliukė</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lt</language>
     
-	<atom:link href="http://strakaliuke.lt/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prp1.github.io/auksaranke/home/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

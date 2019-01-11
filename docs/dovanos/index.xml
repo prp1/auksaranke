@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dovanos, suvenyrai on Strakaliukė</title>
-    <link>http://strakaliuke.lt/dovanos/</link>
+    <link>https://prp1.github.io/auksaranke/dovanos/</link>
     <description>Recent content in Dovanos, suvenyrai on Strakaliukė</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lt</language>
     
-	<atom:link href="http://strakaliuke.lt/dovanos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prp1.github.io/auksaranke/dovanos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dovanų pakavimas</title>
-      <link>http://strakaliuke.lt/dovanos/dovanu-pakavimas/</link>
+      <link>https://prp1.github.io/auksaranke/dovanos/dovanu-pakavimas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/dovanos/dovanu-pakavimas/</guid>
+      <guid>https://prp1.github.io/auksaranke/dovanos/dovanu-pakavimas/</guid>
       <description>Kartais net paprasta dovana gali nustebinti savo išskirtinumu. Tereikia ją originaliai įpakuoti!</description>
     </item>
     
     <item>
       <title>Dekoruoti buteliai</title>
-      <link>http://strakaliuke.lt/dovanos/dekoruoti-buteliai/</link>
+      <link>https://prp1.github.io/auksaranke/dovanos/dekoruoti-buteliai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/dovanos/dekoruoti-buteliai/</guid>
+      <guid>https://prp1.github.io/auksaranke/dovanos/dekoruoti-buteliai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dėžutės</title>
-      <link>http://strakaliuke.lt/dovanos/dezutes/</link>
+      <link>https://prp1.github.io/auksaranke/dovanos/dezutes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/dovanos/dezutes/</guid>
+      <guid>https://prp1.github.io/auksaranke/dovanos/dezutes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Akinių dėklai</title>
-      <link>http://strakaliuke.lt/dovanos/akiniu-deklai/</link>
+      <link>https://prp1.github.io/auksaranke/dovanos/akiniu-deklai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/dovanos/akiniu-deklai/</guid>
+      <guid>https://prp1.github.io/auksaranke/dovanos/akiniu-deklai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knygų skirtukai</title>
-      <link>http://strakaliuke.lt/dovanos/knygu-skirtukai/</link>
+      <link>https://prp1.github.io/auksaranke/dovanos/knygu-skirtukai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/dovanos/knygu-skirtukai/</guid>
+      <guid>https://prp1.github.io/auksaranke/dovanos/knygu-skirtukai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kalėdinės dovanos</title>
-      <link>http://strakaliuke.lt/dovanos/kaledines-dovanos/</link>
+      <link>https://prp1.github.io/auksaranke/dovanos/kaledines-dovanos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://strakaliuke.lt/dovanos/kaledines-dovanos/</guid>
+      <guid>https://prp1.github.io/auksaranke/dovanos/kaledines-dovanos/</guid>
       <description></description>
     </item>
     
